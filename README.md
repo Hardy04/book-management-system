@@ -114,7 +114,7 @@ Contributions are welcome! Open an issue or submit a PR.
 This project is **open-source** under the MIT License.  
 
 ## 📬 Contact  
-📧 Email: [nm5746@srmist.edu.in](mailto:nm5746@srmist.edu.inz)  
-🔗 LinkedIn: [Nidarshan-M-V]([https://linkedin.com/in/yourprofile](https://in.linkedin.com/in/nidarshan-m-v-9b8b3524b))  
+📧 Email: [22.hardikagarwal](mailto:22.hardikagarwal@gmail.com)  
+🔗 LinkedIn: [Agarwal Hardik]([https://linkedin.com/in/yourprofile](https://in.linkedin.com/in/hardik-agarwal-462582222))  
 
 >>>>>>> eee8944 (version 2 readme)
